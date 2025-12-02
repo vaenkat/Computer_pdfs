@@ -1,1 +1,1 @@
-This repo contains all the pdf available for cs course
+This repo MOST of the pdf available for c
