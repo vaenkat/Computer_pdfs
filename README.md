@@ -1,1 +1,1 @@
-This repo MOST of the pdf available for c
+This repo has MOST of the pdf available for c
